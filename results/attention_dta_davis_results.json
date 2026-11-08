@@ -1,0 +1,14 @@
+{
+  "model": "attention_dta",
+  "dataset": "davis",
+  "metrics": {
+    "MSE": 0.49111029505729675,
+    "RMSE": 0.7007926191515552,
+    "Pearson": 0.6016157865524292,
+    "CI": 0.8047973992093171
+  },
+  "epochs_trained": 15,
+  "train_size": 24044,
+  "test_size": 6012,
+  "seed": 42
+}

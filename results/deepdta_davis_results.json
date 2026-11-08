@@ -1,0 +1,14 @@
+{
+  "model": "deepdta",
+  "dataset": "davis",
+  "metrics": {
+    "MSE": 0.37981709837913513,
+    "RMSE": 0.6162930296369862,
+    "Pearson": 0.7060887813568115,
+    "CI": 0.8401103793475013
+  },
+  "epochs_trained": 15,
+  "train_size": 24044,
+  "test_size": 6012,
+  "seed": 42
+}

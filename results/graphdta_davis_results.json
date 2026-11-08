@@ -1,0 +1,14 @@
+{
+  "model": "graphdta",
+  "dataset": "davis",
+  "metrics": {
+    "MSE": 0.5740527510643005,
+    "RMSE": 0.7576626895025916,
+    "Pearson": 0.5003626942634583,
+    "CI": 0.7577473886229802
+  },
+  "epochs_trained": 15,
+  "train_size": 24044,
+  "test_size": 6012,
+  "seed": 42
+}
